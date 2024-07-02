@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 - 🌱 I’m currently learning DSA,Computer Networks
 
-- 💬 Ask me about Design
+- 💬 Ask me about Design,MERN
 
 - 📫 How to reach me **boddepalli.ramana48@gmail.com**
 
